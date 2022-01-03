@@ -16,4 +16,4 @@ This a port of the original [hackclub/bank-ops-plugin](https://github.com/hackcl
   
 ## Set up in Safari (iOS)
 
-I don't know (yet).
+Not really possible (yet).
